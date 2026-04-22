@@ -1,0 +1,4 @@
+:3000
+
+root * /app/dist
+file_server
