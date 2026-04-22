@@ -1,0 +1,5 @@
+[build]
+nixpacks = false
+
+[start]
+cmd = "npx http-server dist -p 3000"
